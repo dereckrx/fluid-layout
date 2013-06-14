@@ -1,6 +1,6 @@
-** Notes taken from: http://www.codeschool.com/courses/journey-into-mobile **
+_Notes taken from: http://www.codeschool.com/courses/journey-into-mobile_
 
-## Universal web: 
+## Universal web
 * most work with any form of information
 * must be accessible from any device. 
 
@@ -56,11 +56,11 @@ Responsive design: content defiance break points (in adaptive its screen size)
 ## Responsive Media
 * responsive images, retina images
 
-## Links
-Responsive web design (book)
-Adaptive web design (book)
-responsive.is (website) - can view websites in any screen size like in levels
-Mark boulton (blog)
-Future friendly (website)
-Lukew.com (webiste)
-Media Queries (website)
+## Resources
+* Responsive web design (book)
+* Adaptive web design (book)
+* responsive.is (website) - can view websites in any screen size like in levels
+* Mark boulton (blog)
+* Future friendly (website)
+* Lukew.com (webiste)
+* Media Queries (website)
