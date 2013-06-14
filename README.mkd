@@ -1,0 +1,66 @@
+Notes taken from: http://www.codeschool.com/courses/journey-into-mobile
+
+==Universal web: 
+* most work with any form of information
+* must be accessible from any device. 
+
+* Fluid layouts
+* adaptive design
+* responsive design
+
+pixels => elms
+1em = 16px standard font size
+
+target / context => target
+30px / 10px => 3em
+
+Don't round, use exact em values so the browser will render it correctly
+Use comments to make it clear 
+font-size: 2.4em; /* 24px / 10 px */
+
+==Fluid Layouts
+* foundations
+* grids
+
+desired width / total width => result
+for margins, context is container
+for padding, context is element itself
+
+== Adaptive design
+* separate mobile site?
+* adaptive design? controlled adaptation 
+* responsive design? 
+
+Four keys to design
+* User: know who your user is
+* Use: how will they use the site?
+* Context: context? what device? Resolution? screen size?
+* Content: content how will it adapt? 
+
+=== Break Points
+Where your design breaks down
+480x320 px for standard iPhone 
+
+media queries: css to detect screen size
+
+== Responsive design
+Mobile first: focus on most important things
+* simplify content
+* prioritize layout
+* optimize user experience 
+
+Responsive < Adaptive
+
+Responsive design: content defiance break points (in adaptive its screen size)
+
+== Responsive Media
+* responsive images, retina images
+
+==Links
+Responsive web design (book)
+Adaptive web design (book)
+responsive.is (website) - can view websites in any screen size like in levels
+Mark boulton (blog)
+Future friendly (website)
+Lukew.com (webiste)
+Media Queries (website)
