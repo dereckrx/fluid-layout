@@ -1,3 +1,5 @@
+An example of a fluid layout design that adapts to different screen sizes.
+
 _Notes taken from: http://www.codeschool.com/courses/journey-into-mobile_
 
 ## Universal web
